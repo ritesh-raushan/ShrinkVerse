@@ -2,13 +2,25 @@
   "name": "shrinkverse-backend",
   "version": "1.0.0",
   "description": "Shrinkversse is a user-friendly URL shortener that transforms long links into concise, customizable URLs. Whether for sharing or organizing, Shrinkversse makes your links sleek and efficient while ensuring a seamless experience.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon -r dotenv/config src/index.js"
   },
   "keywords": [
     "shrinkverse-backend"
   ],
   "author": "Kumar Ritesh Raushan",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "nanoid": "^5.0.8",
+    "validator": "^13.12.0"
+  }
 }
