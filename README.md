@@ -1,0 +1,2 @@
+Shrinkversse: Shorten Share Simplify
+Shrinkversse is a user-friendly URL shortener that transforms long links into concise, customizable URLs. Whether for sharing or organizing, Shrinkversse makes your links sleek and efficient while ensuring a seamless experience.

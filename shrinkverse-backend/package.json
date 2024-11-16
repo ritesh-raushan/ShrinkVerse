@@ -1,0 +1,14 @@
+{
+  "name": "shrinkverse-backend",
+  "version": "1.0.0",
+  "description": "Shrinkversse is a user-friendly URL shortener that transforms long links into concise, customizable URLs. Whether for sharing or organizing, Shrinkversse makes your links sleek and efficient while ensuring a seamless experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shrinkverse-backend"
+  ],
+  "author": "Kumar Ritesh Raushan",
+  "license": "ISC"
+}
